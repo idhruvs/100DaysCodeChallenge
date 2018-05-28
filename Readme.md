@@ -6,6 +6,7 @@ Creating a personal list of topics to study for #100DaysCodeChallenge #FullStack
 2. [o] JAMStack
 3. [o] JavaScript Essentials
 4. [o] ReactJS component-props life-cycle
+5. [o] LUIS - Microsoft Bot 
 
 
 ### Note: 
